@@ -31,9 +31,11 @@ Official Repo for https://rossm.pw
      - apt install update && apt install git
      2. Git Clone this REPO 
      - After updating, run >> git clone https://github.com/RossMdevs/rossm.pw.git
+    
      
 
 # What I need to get done. 
 - [X] Validize Code
      
      
+### Signed - Ross
