@@ -10,4 +10,11 @@ Official Repo for https://rossm.pw
 
 
 ###### We run soley on  Apache!
-###### Thank's to apache and cloudflare we are able to maintain uptime consitently -
+###### Thank's to apache and cloudflare we are able to maintain uptime consitently, let's not forgwt
+
+# A list of what was used for Rossm.pw
+- Apache
+- PHP Modules
+- HTTPD Security
+- Cloudflare OAUTH
+- HTML5 - <3 bae
