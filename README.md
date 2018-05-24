@@ -1,4 +1,4 @@
-![Funny, this image broke](https://i.rossm.pw/690329.png)
+![Funny, this image broke](https://i.rossm.pw/344843.png)
 
 
 # rossm.pw
