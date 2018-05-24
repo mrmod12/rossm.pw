@@ -28,8 +28,8 @@ Official Repo for https://rossm.pw
      - After updating, run >> git clone https://github.com/RossMdevs/rossm.pw.git
      
 
-#What I need to get done. 
-     
+# What I need to get done. 
+- [X] Validize Code      
 - [ ] Fluidize Code to make layout easier
 - [ ] Clean Git Clone Up
      
