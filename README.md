@@ -34,8 +34,6 @@ Official Repo for https://rossm.pw
      
 
 # What I need to get done. 
-- [X] Validize Code      
-- [ ] Fluidize Code to make layout easier
-- [ ] Clean Git Clone Up
+- [X] Validize Code
      
      
