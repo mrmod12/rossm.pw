@@ -1,7 +1,7 @@
 ![Funny, this image broke](https://i.rossm.pw/448563.png)
 
 # Build Info
-Current Build Status: Self-Maintained
+Current Build Status: Self-Maintained by @RossMdevs
 
 # Repository for RossM.pw   
 Official Repo for https://rossm.pw
