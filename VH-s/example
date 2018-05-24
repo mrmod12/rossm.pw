@@ -1,0 +1,10 @@
+<VirtualHost *:80>
+    ServerAdmin admin@example.com < Server admin, where emails may be sent
+    ServerName public.rossm.pw < Server Name DO NOT ADD TRAILING /
+    ServerAlias www.public.rossm.pw < Alias for WWW.
+    DocumentRoot /var/www/public < What they'll see when they visit this domain
+
+
+    ErrorLog ${APACHE_LOG_DIR}/error.log
+    CustomLog ${APACHE_LOG_DIR}/access.log combined < ERROR Logs do not touch unless the locations were changed
+</VirtualHost\>
