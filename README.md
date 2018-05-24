@@ -30,7 +30,7 @@ Official Repo for https://rossm.pw
 
 #What I need to get done. 
      
-- [] Fluidize Code to make layout easier
+- [ ] Fluidize Code to make layout easier
 - [ ] Clean Git Clone Up
      
      
