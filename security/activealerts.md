@@ -7,7 +7,7 @@
 ###### Alerts listed here must be patched on next release or be they must removed.
 
 
-# For :warning: ASI'S make a PR as soon as you can.
+# :rotating_light: NOTE: Any ASI'S found you must make a PR as soon as you can, exploiting these vunerabilites will result in a Banned IP.
 -------------------------------------------------------------------------------------------------------------------------------------------
 
 On <b> ROSSM.ML</b> authorization points for rossm.pw are non-existing allowing 2FA/Ouath Bypass. These may result in leaked data! 
