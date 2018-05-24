@@ -3,7 +3,6 @@
 
 # :warning: Information about Certain Directories :warning:
 As this is a public branch private directories are not listed here, this is to protect certain data.
-If there is any concern about this feel free to contact me @ [Discord](https://discord.gg/F2Vt7Qw)
 
 
 # Build Info
