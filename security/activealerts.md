@@ -4,7 +4,7 @@
 
 
 # :warning: Active Security Incidents Pending next patch
-###### Alerts listed here must be patched on next release or be they must removed.
+###### Alerts listed here must be patched on next release or they will be  removed.
 
 
 # :rotating_light: NOTE: Any ASI'S found you must make a PR as soon as you can, exploiting these vunerabilites will result in a Banned IP.
