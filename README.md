@@ -1,8 +1,8 @@
-###### This is a stable branch, this branch is maintained commonly
+###### This is a stable branch, this branch is maintained on a basis
 ![Funny, this image broke](https://i.rossm.pw/448563.png)
 
-# :warning: Information about Directories :warning:
-As this is a public branch all private directories are not listed here, this is to protect certain data.
+# :warning: Information about Certain Directories :warning:
+As this is a public branch certain <sub>If not all</sub> private directories are not listed here, this is to protect certain data.
 
 # Build Info
 Current Build Status: Self-Maintained by @RossMdevs
