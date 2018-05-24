@@ -2,7 +2,9 @@
 ![Funny, this image broke](https://i.rossm.pw/448563.png)
 
 # :warning: Information about Certain Directories :warning:
-As this is a public branch certain <sub>If not all</sub> private directories are not listed here, this is to protect certain data.
+As this is a public branch private directories are not listed here, this is to protect certain data.
+If there is any concern about this feel free to contact me @ [Discord](https://discord.gg/F2Vt7Qw)
+
 
 # Build Info
 Current Build Status: Self-Maintained by @RossMdevs
