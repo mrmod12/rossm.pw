@@ -25,6 +25,12 @@ Official Repo for https://rossm.pw
 1. First, install GIT
      - apt install update && apt install git
      2. Git Clone this REPO 
-     - After updating, run [root@bash ~} git clone https://github.com/RossMdevs/rossm.pw.git
+     - After updating, run >> git clone https://github.com/RossMdevs/rossm.pw.git
+     
+
+#What I need to get done. 
+     
+- [] Fluidize Code to make layout easier
+- [ ] Clean Git Clone Up
      
      
