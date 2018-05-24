@@ -1,7 +1,7 @@
 ![Funny, this image broke](https://i.rossm.pw/448563.png)
 
 # Build Info
-CURRENT STATUS: Maintaining Code..
+Current Build Status: Self-Maintained
 
 # Repository for RossM.pw   
 Official Repo for https://rossm.pw
@@ -16,5 +16,15 @@ Official Repo for https://rossm.pw
 - Apache
 - PHP Modules
 - HTTPD Security
-- Cloudflare OAUTH
-- HTML5 - <3 bae
+ - Cloudflare OAUTH
+ - HTML5 - <3 bae
+
+
+# How to use Rossm.pw on _your site_
+
+1. First, install GIT
+     - apt install update && apt install git
+     2. Git Clone this REPO 
+     - After updating, run git clone https://github.com/RossMdevs/rossm.pw.git
+     
+     
